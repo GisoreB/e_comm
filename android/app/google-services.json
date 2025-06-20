@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "4719334423",
+    "project_id": "e-comm-app-project",
+    "storage_bucket": "e-comm-app-project.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4719334423:android:f347a53bc424a4d7b43852",
+        "android_client_info": {
+          "package_name": "com.kazungudev.e_comm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr5mWTLohSHjG_kzKmkP9REjFI2zOJwms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
